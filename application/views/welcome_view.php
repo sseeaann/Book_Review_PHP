@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Welcome to CodeIgniter</title>
+	<title>Book Review</title>
 	<link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-theme.min.css">
 </head>
